@@ -9,6 +9,8 @@ Market share prediction using Linear Regression and Random Forest Regression
 
 ## How to run
 - install requirements (pip install -r requirements.txt)
+- download data.csv from https://drive.google.com/open?id=1JNyXs8CPbqneo99rGRJswIM7G1-Zsldp and put it into data folder
+- download test.csv from https://drive.google.com/open?id=1C1eDzYSWy5vyhD--4Dn8tS_ev-wpUrOp and put it into data folder
 - run main.py file.
 
 ## Results
